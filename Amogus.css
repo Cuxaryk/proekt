@@ -1,0 +1,65 @@
+footer {
+    background-color:brown;
+    margin-bottom: 500px;
+}
+footer img {
+    height: 30px;
+    width: 45px;
+}
+h2 {
+    text-align:center;
+}
+h1 {
+    text-align:center;
+}
+.pon {
+   text-align:center;
+}
+.apple {
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+}
+.apple2 {
+    margin-left: 43px;
+}.banana {
+    margin-left: 50px;
+    width: 100px; 
+    height: 100px;
+}
+.pon1 {
+    display: flex;
+}
+.pon2 {
+    display: flex;
+}
+.banana2 {
+    margin-left: 90px;
+}
+.orange {
+     margin-left: 30px;
+    width: 120px; 
+    height: 120px;
+}
+.orange2 {
+    margin-left: 80px;
+}
+.mandarin {
+    width: 150px; 
+    height: 130px;
+}
+.mandarin2 {
+    margin-left: 60px;
+}
+.percik { 
+    width: 120px; 
+    height: 100px;
+    margin-top: 20px;
+}
+.percik2{
+    margin-left: 68px;
+}
+.text {
+    text-align: center;
+}
+     
