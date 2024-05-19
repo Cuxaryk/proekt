@@ -6,6 +6,9 @@ footer img {
     height: 30px;
     width: 45px;
 }
+nav {
+    
+}
 h2 {
     text-align:center;
 }
@@ -26,6 +29,7 @@ h1 {
     margin-left: 50px;
     width: 100px; 
     height: 100px;
+    margin-top: 20px;
 }
 .pon1 {
     display: flex;
@@ -62,4 +66,65 @@ h1 {
 .text {
     text-align: center;
 }
-     
+.grusha {
+    height: 100px;
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.grusha2 {
+    margin-left: 70px;
+}
+.abrikos {
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+}
+.abrikos2 {
+    margin-left: 50px;
+}
+.strawberry {
+    width: 100px;
+    height: 100px;
+}
+.strawberry2 {
+    margin-left: 15px;
+}
+.grape {
+    width: 120px;
+    height: 100px;
+    margin-left: 60px;
+}
+.grape2 {
+    margin-left: 110px;
+}
+.display {
+    display: flex;
+}
+.displaytext {
+    display: flex;
+}
+.watermelon {
+    width: 100px;
+    height: 100px;
+    margin-left: 40px;
+}
+.watermelon2 {
+    margin-left: 90px;
+}
+.malina {
+    width: 100px;
+    height: 100px;
+    margin-left: 40px;
+}
+.malina2 {
+    margin-left: 90px;
+}
+.blueberry {
+    width: 120px;
+    height: 100px;
+    margin-left: 20px;
+}
+.blueberry2 {
+    margin-left: 60px;
+}
