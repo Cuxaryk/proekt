@@ -1,0 +1,58 @@
+footer {
+    background-color:brown;
+    margin-bottom: 500px;
+}
+footer img {
+    height: 30px;
+    width: 45px;
+}
+.text1 {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+.pomidor {
+    height: 100px;
+    width: 100px;
+}
+.pomidor2 {
+    margin-left: 20px;
+}
+.pon8 {
+    display:flex;
+}
+.ovosh {
+    display:flex;
+}
+.cucumber {
+    height: 100px;
+    width: 140px;
+}
+.cucumber2{
+    margin-left: 50px;
+}
+.carrot {
+    height: 120px;
+    width: 120px;   
+}
+.carrot2 {
+    margin-left: 60px;
+}
+.potato {
+    height: 100px;
+    width: 100px;
+}
+.potato2 {
+    margin-left: 60px;
+}
+.redic {
+    height: 100px;
+    width: 100px;
+}
+.redic2 {
+    margin-left: 50px;
+}
+.len {
+    text-align: center;
+}
