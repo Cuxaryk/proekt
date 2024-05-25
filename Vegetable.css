@@ -56,3 +56,11 @@ h1 {
 .len {
     text-align: center;
 }
+header {
+    text-align: center;
+    background-color: lightblue;
+}
+header a {
+    text-decoration: none;
+    color: black;
+}
