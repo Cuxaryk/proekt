@@ -123,6 +123,14 @@ h1 {
 .blueberry {
     width: 120px;
     height: 100px;
+header {
+    text-align: center;
+    background-color: lightblue;
+}
+header a {
+    text-decoration: none;
+    color: black;
+}
     margin-left: 20px;
 }
 .blueberry2 {
